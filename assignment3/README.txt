@@ -1,6 +1,5 @@
 Jake Soule
 101131271
-A3 - COMP2404
 
 Control.o: Launches the program and controls each class
 
